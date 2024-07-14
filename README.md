@@ -1,0 +1,1 @@
+# 50languages2anki

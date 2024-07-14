@@ -1,0 +1,4 @@
+beautifulsoup4
+genanki>=0.12.0
+black
+requests

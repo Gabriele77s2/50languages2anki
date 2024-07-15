@@ -5,15 +5,12 @@ import random
 import json
 import argparse
 from typing import Dict, Tuple, Optional
-
 import requests
 from bs4 import BeautifulSoup
 import genanki
 import chardet
 
-LESSON_LINK = (
-    "https://www.50languages.com/{src}/learn/phrasebook-lessons/{lesson}/{dest}"
-)
+LESSON_LINK = ("https://www.50languages.com/{src}/learn/phrasebook-lessons/{lesson}/{dest}")
 SOUND_LINK = "https://www.book2.nl/book2/{lang}/SOUND/{sound_id}.mp3"
 
 CSS = """\

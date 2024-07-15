@@ -19,7 +19,7 @@ SOUND_LINK = "https://www.book2.nl/book2/{lang}/SOUND/{sound_id}.mp3"
 CSS = """\
 .card {
   font-family: arial;
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
   color: black;
   background-color: white;

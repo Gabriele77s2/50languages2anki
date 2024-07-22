@@ -1,4 +1,4 @@
-# 50Languages2Anki
+# 50Langs2Anki
 
 A Python script to extract sentences, audio, and translations from [50Languages](https://www.50languages.com/)
 and generate [Anki](https://apps.ankiweb.net/) flashcards from them for language learning.

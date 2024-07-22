@@ -6,7 +6,7 @@ and generate [Anki](https://apps.ankiweb.net/) flashcards from them for language
 ## Usage
 
 - Install dependencies: `pip install -r requirements.txt`
-- Run the script using something like: `python fiftylangs2anki.py --src en --dest tr --start 5 --end 10`
+- Run the script using something like: `python 50langs2anki.py --src en --dest tr --start 5 --end 10`
 - You should see a deck package named `50Languages_en-tr_5-10.apkg` in the current working directory (You can also provide a different output file using the `--out` option).
 
 The `--src` and `--dest` flags take codes of two languages.
